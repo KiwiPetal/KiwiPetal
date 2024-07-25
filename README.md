@@ -7,7 +7,7 @@ I'm a strong believer in Open Source and working on Closed Source stuff makes me
 Motivated by learning new things, especially if those things are extremely unnecessary. Basically I'm a big [Neovim](https://neovim.io/) enjoyer.
 
 ## Random facts
-I do pretty much anything there is to code (for the exception of gaming). Somehow didn't get to that niche. Maybe some day though.
+I do pretty much anything there is to code (for the exception of game development). Somehow didn't get to that niche. Maybe some day though.
 
 But as much as I hate Closed Source, most of the projects I made are, so I kinda don't have much to show for myself. But also **"Maybe some day though"** again.
 
