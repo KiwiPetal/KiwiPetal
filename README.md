@@ -19,4 +19,3 @@ I'm also a gamer, a 3D artist and used to play music for half of my life. So in 
 - [This GitHub page](https://github.com/KiwiPetal)
 - [GitLab](https://gitlab.com/KiwiPetal)
 - [Discord](https://discordlookup.com/user/258571406302773251)
-- [Steam](https://steamcommunity.com/id/KiwiButNotTheBird/)
