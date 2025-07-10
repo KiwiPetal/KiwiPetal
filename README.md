@@ -17,8 +17,8 @@ I'm also a gamer, a 3D artist and used to play music for half of my life. So in 
 
 ## Where to find me
 
-- [My website](https://little-kiwi.net/)
-- [This GitHub page](https://github.com/KiwiPetal)
+- [My website](https://kiwiosity.dev/)
+- [This GitHub page](https://github.com/TheKiwiosity)
 - [GitLab](https://gitlab.com/KiwiPetal)
 - [Discord](https://discordlookup.com/user/258571406302773251)
 - [LinkedIn](https://linkedin.com/in/kiwipetal)
